@@ -1,0 +1,52 @@
+body {
+    margin: 0px;
+    background-color: #E3F4F4;
+    min-width: 20%;
+}
+
+.header {
+    width: 100%;
+    max-height: 50%;
+    background-image: url(IMG/sky-3583092_1280.jpg) ;
+    background-size: cover;
+    margin: 0px;
+    text-align: center;
+}
+
+.header h1{
+    padding-top: 30px;
+    margin-top: 0px;
+    color: rgb(31, 13, 94);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.maravillas{
+    width: 70%;
+    text-align: center;
+    margin-left: 15%;
+
+}
+
+.maravillas_mara{
+    max-height: 150px;
+    display: inline-flex;
+    margin-bottom: 50px;
+}
+
+.maravillas_mara ul{
+    max-height: 150px;
+    display: ;
+}
+
+.footer{
+    display: block;
+    text-align: center;
+    background-image: url(https://tuproyectoya.com/wp-content/uploads/2021/01/Las-7-Maravillas-del-Mundo-Construidas-por-el-Hombre-Modernas.jpg.webp);
+    background-position: center;
+    background-size: cover;
+    padding: 20px;
+}
+
+.footer p{
+    margin: 0px;
+}

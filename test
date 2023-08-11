@@ -1,0 +1,92 @@
+
+    <!-- <div>
+        <table class="tabla">
+            <tr>
+                <td>
+                    <img src="IMG/Petra.jpg" alt="Ciudad_De_Petra">
+                </td>
+                <td>
+                    <h2>
+                        Ciudad De Pretra
+                    </h2>
+                    <p>
+                        esta es la ciudad de Petra
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="IMG/TajMaHal.jpg" alt="Taj_Mahal">
+                </td>
+                <td>
+                    <h2>
+                        El Taj Mahal
+                    </h2>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="IMG/MachuPicchu.jpg" alt="Machu_Picchu">
+                </td>
+                <td>
+                    <h2>
+                        Machu Picchu
+                    </h2>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="IMG/ChichenItza.jpg" alt="Chichén_Itzá">
+                </td>
+                <td>
+                    <h2>
+                        Chichén Itzá
+                    </h2>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="IMG/ElColiseo.jpg" alt="El_Coliseo">
+                </td>
+                <td>
+                    <h2>
+                        El Coliseo Romano
+                    </h2>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="IMG/MurallaChina.jpg" alt="Muralla_China">
+                </td>
+                <td>
+                    <h2>
+                        La Gran Muralla China
+                    </h2>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="IMG/CristoRendentor.jpg" alt="Cristo_Rendentor">
+                </td>
+                <td>
+                    <h2>
+                        Cristo Rendentor
+                    </h2>
+                </td>
+            </tr>
+        </table>
+        
+    </div> -->
+
+    
+.tabla {
+    margin: auto;
+    margin-top: 50px;
+}
+.tabla img{
+    width: 400px;
+}
+
+.tabla h2{
+    text-decoration: underline;
+}
